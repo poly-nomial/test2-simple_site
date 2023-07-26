@@ -1,0 +1,5 @@
+.header__shop {
+    display: flex;
+    align-content: baseline;
+    height: 100%;
+}

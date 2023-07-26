@@ -1,0 +1,8 @@
+.header__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 90px;
+    box-sizing: border-box;
+    align-items: center;
+}

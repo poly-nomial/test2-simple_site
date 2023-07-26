@@ -1,0 +1,12 @@
+.header__counter{
+    background-color: white;
+    width: 21px;
+    height: 18px;
+    border-radius: 50%;
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 7px;
+    left: -20px;
+    font-size: 11px;
+    line-height: 18px;
