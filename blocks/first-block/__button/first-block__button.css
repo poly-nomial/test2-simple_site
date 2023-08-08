@@ -1,0 +1,10 @@
+.first-block__button {
+    width: 203px;
+    padding: 0;
+    height: 70px;
+    font-size: 18px;
+    line-height: 28px;
+    box-sizing: border-box;
+    border: 0;
+    cursor: pointer;
+}

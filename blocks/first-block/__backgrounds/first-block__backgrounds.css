@@ -1,0 +1,7 @@
+.first-block__backgrounds{
+    display: flex;
+    z-index: -1;
+    position: relative;
+    min-height: 1069px;
+    top: -62px;
+}

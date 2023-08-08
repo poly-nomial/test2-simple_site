@@ -1,0 +1,16 @@
+.first-block__links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 310px;
+    margin: 20px 0 0;
+    box-sizing: border-box;
+    transform: rotateZ(-90deg);
+    font-size: 11px;
+    line-height: 25px;
+    position: relative;
+    top: -650px;
+    left: -122px;
+
+}

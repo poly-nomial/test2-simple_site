@@ -1,0 +1,6 @@
+.first-block__content {
+    display: flex;
+    position: relative;
+    top: -900px;
+    margin-left: 60px;
+}
