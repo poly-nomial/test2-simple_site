@@ -1,0 +1,8 @@
+.second-block {
+    background-color: #2A313C;
+    display: grid;
+    grid-template-columns: 596px 596px;
+    gap: 128px;
+    padding-left: 60px;
+    position: relative;
+}

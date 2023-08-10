@@ -1,0 +1,17 @@
+.second-block__preview {
+    cursor: pointer;
+    width: 196px;
+    height: 125px;
+    border: 12px solid transparent;
+    border-radius: 20px;
+    box-sizing: border-box;
+    transition: border-color .1s ease-out;
+}
+
+.second-block__preview:first-of-type {
+    border-color: #3B3D46;
+}
+
+.second-block__preview:hover {
+    border-color: #3B3D46;
+}
