@@ -1,0 +1,9 @@
+.news__button {
+    padding: 0;
+    color: white;
+    background-color: #57B8FF;
+    width: 175px;
+    height: 70px;
+    border: none;
+    cursor: pointer;
+}

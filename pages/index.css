@@ -36,3 +36,16 @@
 @import url(../blocks/second-block/__text/second-block__text.css);
 @import url(../blocks/second-block/__gallery/secong-block__gallery.css);
 @import url(../blocks/second-block/__preview/secong-block__preview.css);
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__header/news__header.css);
+@import url(../blocks/news/__headline/news__headline.css);
+@import url(../blocks/news/__button/news__button.css);
+@import url(../blocks/news/__articles/news__articles.css);
+@import url(../blocks/article/article.css);
+@import url(../blocks/article/_main/article_main.css);
+@import url(../blocks/article/__image/article__image.css);
+@import url(../blocks/article/__image/_main/article__image_main.css);
+@import url(../blocks/article/__date/article__date.css);
+@import url(../blocks/article/__date/_main/article__date_main.css);
+@import url(../blocks/article/__headline/article__headline.css);
+@import url(../blocks/article/__headline/_main/article__headline_main.css);

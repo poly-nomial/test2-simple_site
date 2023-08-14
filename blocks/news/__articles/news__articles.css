@@ -1,0 +1,8 @@
+.news__articles {
+    display: grid;
+    grid-template-areas: 
+    "main main sub sub"
+    "main main sub sub";
+    column-gap: 24px;
+    row-gap: 40px;
+}
