@@ -49,3 +49,10 @@
 @import url(../blocks/article/__date/_main/article__date_main.css);
 @import url(../blocks/article/__headline/article__headline.css);
 @import url(../blocks/article/__headline/_main/article__headline_main.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-name/footer__menu-name.css);
+@import url(../blocks/footer/__link/footer__link.css);

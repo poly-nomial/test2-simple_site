@@ -1,0 +1,4 @@
+.footer__menu {
+    display: flex;
+    flex-flow: column;
+}

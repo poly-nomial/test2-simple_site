@@ -1,0 +1,7 @@
+.footer__link {
+    color: #999999;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 37.5px;
+}

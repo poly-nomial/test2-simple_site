@@ -1,0 +1,6 @@
+.footer__info {
+    display: flex;
+    flex-flow: column;
+    width: 294px;
+    gap: 35px;
+}
